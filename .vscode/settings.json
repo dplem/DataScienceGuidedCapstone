@@ -1,3 +1,4 @@
 {
-    "python.pythonPath": "C:\\Users\\Derek\\.virtualenvs\\Derek-xbsTDh2R\\Scripts\\python.exe"
+    "python.pythonPath": "C:\\Users\\Derek\\.virtualenvs\\Derek-xbsTDh2R\\Scripts\\python.exe",
+    "jupyter.jupyterServerType": "local"
 }
